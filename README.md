@@ -8,25 +8,29 @@ I build cross-platform mobile applications using Flutter and Dart with clean UI 
 
 
  About Me
-🎓 Bachelor of Computer science (University of Kerala)
-📱 Flutter Mobile App Developer
-🔥 Interested in Mobile App Development & UI Design
-🌱 Currently improving my Flutter & Firebase skills
-💡 Passionate about learning new technologies
-
-
-🛠️ Tech Stack
-🚀 Languages & Frameworks
+ 
+ Bachelor of Computer science (University of Kerala)
+ Flutter Mobile App Developer
+ Interested in Mobile App Development & UI Design
+ Currently improving my Flutter & Firebase skills
+ Passionate about learning new technologies
+ 
+ Tech Stack
+ 
+ Languages & Frameworks
 Dart
 Flutter
-🔥 Backend & Database
+
+ Backend & Database
+ 
 Firebase Firestore
 SQLite
 REST API Integration
-🧠 State Management
+
+ State Management
 Provider / GetX
 
-🛠️ Tools
+Tools
 GitHub
 VS Code
 Android Studio
@@ -34,20 +38,20 @@ Android Studio
 
  PROJECTS
  E-Commerce Mobile App
-  Quiz mobile  App
-  Travel photo uploading App
+ Quiz mobile  App
+ Travel photo uploading App
   
 Tech Used: Flutter, Firebase
 User Authentication
 Product Listing
 Cart & Order Management
 
-💬 Chat Application
+ Chat Application
 Tech Used: Flutter, Firebase
 Real-time Messaging
 Login & Signup
 Clean UI
 
-📫 Connect With Me
-📧 Email: jaya80651@gmail.com
-🔗 GitHub: https://github.com/jayasankar80561
+Connect With Me
+ Email: jaya80651@gmail.com
+ GitHub: https://github.com/jayasankar80561
